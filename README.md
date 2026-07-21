@@ -57,8 +57,3 @@ El dashboard analiza principalmente:
 ### 👨‍💻 Desarrollado por:
 * **Franco Suárez** — *DATA AI QUX*
 * **Año:** 2026
-
-
-4. Pega todo el código del cuadro gris de arriba.
-5. Reemplaza los enlaces entre paréntesis `(INSERTAR_LINK_...)` por los tuyos reales.
-6. Haz clic en el botón verde **`Commit changes`**.
